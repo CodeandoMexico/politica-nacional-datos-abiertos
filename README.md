@@ -11,4 +11,6 @@ El presente documento contiene la versión contributiva de las recomendaciones r
 6. [Firmantes](documento/6-firmantes.md)  
 
 
-La versión impresa de este documento se encuentra en [HACIA UNA POLITICA NACIONAL DE DA EN MEXICO.pdf]('HACIA UNA POLITICA NACIONAL DE DA EN MEXICO.pdf')
+La versión impresa de este documento se encuentra en [HACIA UNA POLITICA NACIONAL DE DA EN MEXICO.pdf]('HACIA_UNA_POLITICA_NACIONAL_DE_DA_EN_MEXICO.pdf')
+
+
